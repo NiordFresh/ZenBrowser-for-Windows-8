@@ -22,9 +22,9 @@ Zen Browser is not officially supported on older operating systems such as Windo
 > k64.dll wrapper used in 1.19.9b is created by [EAZY BLACK](https://git.chefkiss.dev/WinRevived/Wrappers/releases/tag/v1.0.0).
 
 # Not satisfied? Check out my other ports:
-- [Mullvad Browser for Windows 8+](https://github.com/NiordFresh/MullvadBrowser-for-Windows-8) - Privacy-focused web browser developed in collaboration with the Tor Project to minimize fingerprinting.
+- [Mullvad Browser for Windows 8+](https://github.com/NiordFresh/MullvadBrowser-for-Windows-8) - Privacy-focused web browser developed to minimize fingerprinting.
 - [Tor Browser for Windows 8+](https://github.com/NiordFresh/TorBrowser-for-Windows-8) - Free, open-source web browser designed to protect user privacy and anonymity.
-- [LibreWolf for Windows 8+](https://github.com/NiordFresh/LibreWolf-for-Windows-8) - Privacy-focused web browser based on Firefox, designed to enhance security and eliminate telemetry.
-- [Zen Browser for Windows 8+](https://github.com/NiordFresh/ZenBrowser-for-Windows-8) - Modern web browser based on the Firefox engine, designed with a focus on simplicity, performance, and distraction-free browsing.
+- [LibreWolf for Windows 8+](https://github.com/NiordFresh/LibreWolf-for-Windows-8) - Privacy-focused web browser based on Firefox, designed to enhance security.
+- [Zen Browser for Windows 8+](https://github.com/NiordFresh/ZenBrowser-for-Windows-8) - Modern web browser based on the Firefox engine, designed with a focus on simplicity.
 
 > © Powered by NiordFresh. 
