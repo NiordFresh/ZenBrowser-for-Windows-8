@@ -11,9 +11,9 @@ Zen Browser is not officially supported on older operating systems such as Windo
 
 # Compatibility
 
-| Version | Windows 8.1 | Windows 8 | Windows 7
-| ------------- | ------------- | ------------- | ------------- |
-| 1.19.9b / STD150.0 | ✅ | ⚠️* | ❌ |
+| Version | Windows 8.1 | Windows 8 | Windows 7 | Download [.7z] | Download [.zip] |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| 1.19.9b / STD150.0 | ✅ | ⚠️* | ❌ |[Download](https://github.com/NiordFresh/ZenBrowser-for-Windows-8/releases/download/1.19.9b_STD150.0/zenbrowser_1.19.9b_STD150.0_win8_portable-NFX.7z) | [Download](https://github.com/NiordFresh/ZenBrowser-for-Windows-8/releases/download/1.19.9b_STD150.0/zenbrowser_1.19.9b_STD150.0_win8_portable-NFX.zip) |
 
 <hr>
 
