@@ -11,13 +11,15 @@ Zen Browser is not officially supported on older operating systems such as Windo
 
 # Compatibility
 
-| Version | Windows 8.1 | Windows 8 | Windows 7 | Download [.7z] | Download [.zip] |
+| Version | Windows 8.1 | Windows 8 | Windows 7 (with VxKex) | Windows 7 | | Download [.7z] | Download [.zip] |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| 1.19.9b / STD150.0 | ✅ | ⚠️* | ❌ |[Download](https://github.com/NiordFresh/ZenBrowser-for-Windows-8/releases/download/1.19.9b_STD150.0/zenbrowser_1.19.9b_STD150.0_win8_portable-NFX.7z) | [Download](https://github.com/NiordFresh/ZenBrowser-for-Windows-8/releases/download/1.19.9b_STD150.0/zenbrowser_1.19.9b_STD150.0_win8_portable-NFX.zip) |
+| 1.19.9b / STD150.0 | ✅ | ⚠️* | ⚠️** | ❌ |[Download](https://github.com/NiordFresh/ZenBrowser-for-Windows-8/releases/download/1.19.9b_STD150.0/zenbrowser_1.19.9b_STD150.0_win8_portable-NFX.7z) | [Download](https://github.com/NiordFresh/ZenBrowser-for-Windows-8/releases/download/1.19.9b_STD150.0/zenbrowser_1.19.9b_STD150.0_win8_portable-NFX.zip) |
 
 <hr>
 
 > *Technically possible by adding "MOZ_DISABLE_CONTENT_SANDBOX=1", however, it requires additional "api-ms-win-shcore-scaling-l1-1-1.dll" ripped from W8.1 in order to run... 
+
+> *Technically possible by adding "MOZ_DISABLE_CONTENT_SANDBOX=1", however, it requires additional swap in zen.exe from k64.dll to normal kernel32.dll in order to run... 
 
 > k64.dll wrapper used in 1.19.9b is created by [EAZY BLACK](https://git.chefkiss.dev/WinRevived/Wrappers/releases/tag/v1.0.0).
 
